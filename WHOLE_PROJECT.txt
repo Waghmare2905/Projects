@@ -1,0 +1,15 @@
+The problem statement of my project is to find out the faulty wafer detection while creating semiconductor devices basically wafer is a slice of a semiconductor device that is used for creating thousands of Integrated circuits and other semiconductor devices imagine the scenario like our client has a production line where several wafers are deployed and whenever there is a fault in any wafer they have to stop their whole production line and manually have to check all wafers to detect the faulty wafer so the solution for this problem statement our client has asked us to build a model which successfully identifies faulty wafer so that entire production line does not get injured. whatever we going to make the prediction client is going the set an alarm at their end that will trigger whenever we say that a certain wafer is faulty so it will get triggered at that point in time and only that particular section on the production line will be stopped and wafer will be replaced and again production line will resume without any hindrance so this was what our problem statement.	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
